@@ -1,7 +1,7 @@
 {
   "name": "@fav/prop.enum-all-keys",
-  "version": "0.0.0",
-  "description": "Lists enumerable own and inherited properties of an object.",
+  "version": "0.1.0",
+  "description": "Lists enumerable own and inherited property keys of an object.",
   "main": "index.js",
   "files": [
     "index.js",
